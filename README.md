@@ -1,2 +1,3 @@
 # Razni_kodovi
 
+Nekoliko pomoćnih fileova...
